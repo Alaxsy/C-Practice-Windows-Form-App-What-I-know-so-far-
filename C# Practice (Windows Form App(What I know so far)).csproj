@@ -48,65 +48,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Forms\FrmButtons.Designer.cs" />
-    <Compile Include="Reference Forms\FrmRadioButtons.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Reference Forms\FrmRadioButtons.Designer.cs">
-      <DependentUpon>FrmRadioButtons.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Reference Forms\Frm10.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Reference Forms\Frm10.Designer.cs">
-      <DependentUpon>Frm10.cs</DependentUpon>
-    </Compile>
     <Compile Include="Reference Forms\FrmButtons.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Reference Forms\FrmButtons.Designer.cs">
       <DependentUpon>FrmButtons.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Reference Forms\Frm3.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Reference Forms\Frm3.Designer.cs">
-      <DependentUpon>Frm3.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Reference Forms\Frm4.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Reference Forms\Frm4.Designer.cs">
-      <DependentUpon>Frm4.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Reference Forms\Frm5.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Reference Forms\Frm5.Designer.cs">
-      <DependentUpon>Frm5.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Reference Forms\Frm6.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Reference Forms\Frm6.Designer.cs">
-      <DependentUpon>Frm6.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Reference Forms\Frm7.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Reference Forms\Frm7.Designer.cs">
-      <DependentUpon>Frm7.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Reference Forms\Frm8.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Reference Forms\Frm8.Designer.cs">
-      <DependentUpon>Frm8.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Reference Forms\Frm9.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Reference Forms\Frm9.Designer.cs">
-      <DependentUpon>Frm9.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmWhatIKnowSoFar.cs">
       <SubType>Form</SubType>
@@ -128,35 +74,8 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Reference Forms\FrmRadioButtons.resx">
-      <DependentUpon>FrmRadioButtons.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Reference Forms\Frm10.resx">
-      <DependentUpon>Frm10.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Reference Forms\FrmButtons.resx">
       <DependentUpon>FrmButtons.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Reference Forms\Frm3.resx">
-      <DependentUpon>Frm3.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Reference Forms\Frm4.resx">
-      <DependentUpon>Frm4.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Reference Forms\Frm5.resx">
-      <DependentUpon>Frm5.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Reference Forms\Frm6.resx">
-      <DependentUpon>Frm6.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Reference Forms\Frm7.resx">
-      <DependentUpon>Frm7.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Reference Forms\Frm8.resx">
-      <DependentUpon>Frm8.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Reference Forms\Frm9.resx">
-      <DependentUpon>Frm9.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
